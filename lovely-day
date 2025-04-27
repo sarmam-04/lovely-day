@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lovely Day</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ffecd2, #fcb69f);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            color: #333;
+        }
+        header {
+            background-color: #ff7e5f;
+            color: white;
+            padding: 20px 0;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        main {
+            margin-top: 50px;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 10px;
+            background-color: #ff7e5f;
+            color: white;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Lovely Day
+    </header>
+    <main>
+        <h1>Welcome!</h1>
+        <p>Today is a lovely day to start something new.</p>
+    </main>
+    <footer>
+        &copy; 2025 Lovely Day. All rights reserved.
+    </footer>
+</body>
+</html>
